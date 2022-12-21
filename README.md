@@ -6,7 +6,7 @@ This project was developed using Python( Jupyter notebook) using following libra
 - Matplotlib
 - Seaborn
 - Squarify
-Skills Used
+## Skills Used
 - Importing , cleaning , transforming and exploring dataset
 - Dealing with outliers and Aplying descriptive statistics 
 - UniVairate and Bivariate analysis.
